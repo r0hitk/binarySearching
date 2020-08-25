@@ -1,2 +1,2 @@
 # binarySearching
-My version of Binary Search using the C language.
+My version of Binary Search using Java.
